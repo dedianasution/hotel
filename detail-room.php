@@ -56,7 +56,7 @@
         <!--Header section start-->
         <div class="header-section">
             <div class="bg-opacity"></div>
-            <div class="top-header sticky-header">
+            <div class="top-header static2">
                 <?php include "menu.php"; ?>
             </div>
 				</div>
