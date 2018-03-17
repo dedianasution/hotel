@@ -1016,7 +1016,7 @@
             <div class="footer-bg-opacity"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3 col-sm-4 col-xs-6">
+                    <div class="col-md-4 col-sm-4 col-xs-6">
                         <div class="single-footer mt-0">
                             <div class="logo">
                                 <img src="images/logo/logo1.png" alt="">
@@ -1046,7 +1046,7 @@
                            <!-- </div>
                         </div>
                     </div> -->
-                    <div class="col-md-3 col-sm-4 col-xs-6">
+                    <div class="col-md-4 col-sm-4 col-xs-6">
                         <div class="single-footer">
                             <h3>Get in touch</h3>
                             <div class="get-touch">
@@ -1061,7 +1061,7 @@
                             </div>
                         </div>
                     </div>
-                     <div class="col-md-3 col-sm-4 col-xs-6">
+                     <div class="col-md-4 col-sm-4 col-xs-6">
                         <div class="single-footer">
                             <h3>instagram</h3>
                             <div class="instagram-post">
