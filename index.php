@@ -992,7 +992,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="newsletter-title">
-                                        <h2>SUBSCRIBE TO OUR NEWSLETTER</h2>
+                                        <h2>SUBSCRIBE T</h2>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
