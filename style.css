@@ -940,6 +940,8 @@ p.welcome-desc {
 }
 .single-testimonial > p {
   color: #fff;
+  font-size:50px;
+  line-height: 60px;
   margin-top: 51px;
 }
 .staff-tesimonial {
