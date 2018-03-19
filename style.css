@@ -748,7 +748,7 @@ p.welcome-desc {
   top: 0;
 }
 .services-title > h2 {
-  background: rgba(255, 255, 255, 0.85) none repeat scroll 0 0;
+  background: #45c0ee none repeat scroll 0 0;
   color: #4a4a4a;
   display: inline-block;
   font-size: 24px;
@@ -772,7 +772,7 @@ p.welcome-desc {
   width: 100%;
 }
 .services-hover-table-cell > h2 {
-  color: #4a4a4a;
+  color: #45c0ee;
   font-size: 30px;
   text-transform: capitalize;
 }

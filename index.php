@@ -667,6 +667,14 @@
                 <div class="news-list">
                     <div class="row">
                         <div class="col-md-12 pb-80">
+                            <?php include "koneksi.php"; ?>
+
+                            <?php 
+
+                               $data = mysqli_query($mysqli, "SELECT * from news");
+                               while($hasil=mysqli_fetch_array($data)){
+
+                            ?>
                             <div class="news-inner">
                                 <div class="news-img">
                                     <img src="images/news/n-1.jpg" alt="">
@@ -679,9 +687,8 @@
                                     </div>
                                 </div>
                                 <div class="news-desc">
-                                    <h3 class="news-title"><a href="#">Best Things to Do In London Enjoy Your life
-    the Night life.</a> </h3>
-                                    <p class="news_desc">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of tystem, and expound the actual teachings of the great explorer of the truth, the master-builder uman happiness. No one rejects, dislikes, or avoids pleasure itself, because it</p>
+                                    <h3 class="news-title"><a href="#"><?php echo $hasil['title']; ?></a> </h3>
+                                    <p class="news_desc"><?php echo $hasil['description']; ?></p>
                                     <div class="news-action">
                                         <div class="read-more">
                                             <a href="#">Read more</a>
@@ -696,8 +703,9 @@
                                     </div>
                                 </div>
                             </div>
+                            <?php } ?>
                         </div>
-                        <div class="col-md-12 pb-80">
+                       <!--  <div class="col-md-12 pb-80">
                             <div class="news-inner">
                                 <div class="news-img">
                                     <img src="images/news/n-2.jpg" alt="">
@@ -728,7 +736,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
