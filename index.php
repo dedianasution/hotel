@@ -113,9 +113,9 @@
                                 <h1 class="cd-headline clip">
                                     <span>FEEL LIKE</span>
                                     <span class="cd-words-wrapper coloring">
-                                        <b class="is-visible"> BEACH</b>
-                                        <b>HOME</b>
-                                        <b>PARADISE</b>
+                                        <b class="is-visible"> HOME</b>
+                                        <b>Nature</b>
+                                       <!--  <b>PARADISE</b> -->
                                     </span>
                                 </h1>
                                 <p class="welcome-desc">Feel the Pleasure of Middle East Living</p>
