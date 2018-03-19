@@ -749,7 +749,7 @@ p.welcome-desc {
 }
 .services-title > h2 {
   background: rgba(255, 255, 255, 0.85) none repeat scroll 0 0;
-  color: #4a4a4a;
+  color: #45c0ee;
   display: inline-block;
   font-size: 24px;
   line-height: 18px;
@@ -762,7 +762,7 @@ p.welcome-desc {
     overflow: hidden;
 }
 .services-hover-inner {
-  background: rgba(255, 255, 255, 0.85) none repeat scroll 0 0;
+  background: #45c0ee none repeat scroll 0 0;
   display: inline-block;
   height: 100%;
   opacity: 0;
