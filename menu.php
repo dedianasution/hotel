@@ -31,7 +31,7 @@
                                                 <ul>
                                                     <li><a href="index.php">home</i></a>
                                                         
-                                                    </li> -->
+                                                    </li> 
                                                     <!-- <li class="mega_parent"><a href="#">Element<i class="fa fa-angle-down"></i></a>
                                                         <ul class="mega_menu"> -->
                                                             <!-- <li><a class="element-title" href="#">Elements colmun 1</a>
