@@ -1459,9 +1459,16 @@ h3.news-title {
     text-transform: capitalize;
     font-family: 'Raleway', sans-serif;
 }
-.static2 .services-desc-inner p.text1,.static2 .services-desc-inner p.text2 {
+.static2 .services-desc-inner p.text1.detail,.static2 .services-desc-inner p.text2 {
   font-size: 13px;
-  color: #fff
+  color: #fff  
+}
+ul .sempak{
+  margin: 
+  list-style-type: circle;;
+  list-style: none;
+  font-size: 13px;
+  color: white;
 }
 .static2 .services-desc {
   margin-top: 40px;
