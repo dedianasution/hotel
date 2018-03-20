@@ -749,12 +749,17 @@ p.welcome-desc {
 }
 .services-title > h2 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   background: #45c0ee none repeat scroll 0 0;
   color: #4a4a4a;
 =======
   background: rgba(255, 255, 255, 0.85) none repeat scroll 0 0;
   color: #45c0ee;
 >>>>>>> d0f25d72e9911b99e8e6d0de35d165b0ebc8f427
+=======
+  background: rgba(69, 192, 237, 0.85) none repeat scroll 0 0;
+  color: #1c1c1c;
+>>>>>>> ff4183e9aa2412a9913e09fec2d7bba5929e7b2c
   display: inline-block;
   font-size: 24px;
   line-height: 18px;
@@ -945,6 +950,8 @@ p.welcome-desc {
 }
 .single-testimonial > p {
   color: #fff;
+  font-size:50px;
+  line-height: 60px;
   margin-top: 51px;
 }
 .staff-tesimonial {

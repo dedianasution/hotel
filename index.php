@@ -47,7 +47,6 @@
 			</div>
 		</div>
 	</div>
-
     <div class="wrapper bg-dark">
         <!--Header section start-->
         <div class="header-section">
@@ -113,9 +112,9 @@
                                 <h1 class="cd-headline clip">
                                     <span>FEEL LIKE</span>
                                     <span class="cd-words-wrapper coloring">
-                                        <b class="is-visible"> BEACH</b>
-                                        <b>HOME</b>
-                                        <b>PARADISE</b>
+                                        <b class="is-visible"> HOME</b>
+                                        <b>Nature</b>
+                                       <!--  <b>PARADISE</b> -->
                                     </span>
                                 </h1>
                                 <p class="welcome-desc">Feel the Pleasure of Middle East Living</p>
@@ -200,7 +199,7 @@
                             <div class="col-md-4">
                                 <div class="single-room">
                                     <div class="room-img">
-                                        <a href="#"><img src="images/room/superior.jpg" alt=""></a>
+                                        <img src="images/room/superior.jpg" alt=""></a>
                                     </div>
                                     <div class="room-desc">
                                         <div class="room-name">
@@ -210,7 +209,7 @@
                                             <h5>IDR <?php echo number_format($hasil['price']); ?> / <span><?php echo $hasil['description']; ?></span></h5>
                                         </div>
                                         <div class="room-book">
-                                            <a href="booking-information.html">Book now</a>
+                                            <a href="detail-room.php">Detail Room</a>
                                         </div>
                                     </div>
                                 </div>
@@ -321,253 +320,13 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <!--Our services end-->
-        <!--Our staff start-->
-        <div class="our-staff text-center pb-80  ">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="section-title mb-80">
-                            <h2>our <span>Staff</span></h2>
-                            <p>Layanan semakin sempurna dengan dukungan staff kami yang professional untuk meningkatkan kepuasan menginap Anda</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="staff-list">
-                    <div class="row">
-                        <div class="carousel-list">
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/manager.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Duty Manager</h2>
-                                            <h5>Maya</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Duty Manager</h2>
-                                            <h5>Maya</h5>
-                                            <p>"Kebutuhan menginap anda akan semakin lengkap dengan layanan yang prima dari kami"</p>
-                                            <!-- <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a> -->
-                                            <!-- </div> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff2.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Receptionist</h2>
-                                            <h5>Dian</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Receptionist<h2>
-                                            <h5>Dian</h5>
-                                            <p>Kebutuhan menginap anda akan semakin lengkap dengan layanan yang prima dari kami</p>
-                                            <!-- <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff3.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Security</h2>
-                                            <h5>Menek</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Security</h2>
-                                            <h5>Menek</h5>
-                                            <p>Kebutuhan menginap anda akan semakin lengkap dengan layanan yang prima dari kami</p>
-                                            <!-- <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff1.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-                                            <p>There are many variaons of passa of Lorem Ipsuable, amrn in sofby injected humour, amr.</p>
-                                            <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff2.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-                                            <p>There are many variaons of passa of Lorem Ipsuable, amrn in sofby injected humour, amr.</p>
-                                            <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff3.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-                                            <p>There are many variaons of passa of Lorem Ipsuable, amrn in sofby injected humour, amr.</p>
-                                            <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff1.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-                                            <p>There are many variaons of passa of Lorem Ipsuable, amrn in sofby injected humour, amr.</p>
-                                            <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff2.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-                                            <p>There are many variaons of passa of Lorem Ipsuable, amrn in sofby injected humour, amr.</p>
-                                            <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff3.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-                                            <p>There are many variaons of passa of Lorem Ipsuable, amrn in sofby injected humour, amr.</p>
-                                            <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-
-        </div>
-        <!--Our staff end-->
-        <!--Testimonial start-->
         <div class="our-gallery text-center ptb-80  ">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-title mb-80">
                             <h2>our <span>Testimonial</span></h2>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered by injected humour.</p>
+                            <p>Beragam fasilitas untuk meningkatkan kenyamanan pengalaman menginap Anda bersama kami</p>
                         </div>
                     </div>
                 </div>
@@ -586,19 +345,16 @@
                                             <div class="col-md-8 col-md-offset-2">
                                                 <div class="testimonial-list">
                                                     <div class="single-testimonial">
-                                                        <h2>Louis Smith</h2>
-                                                    <p>There are many variations of passages of Lorem I available, but the majority have suffered alteration in som, d humour, or randomised words which
-    </p>
+                                                        <h2>Dedi A Nasution</h2>
+                                                    <p>"Lokasi sangat strategis, kamar bersih, pelayanan memuaskan"</p>
                             </div>
                             <div class="single-testimonial">
-                                <h2>Louis Smith</h2>
-                               <p>There are many variations of passages of Lorem I available, but the majority have suffered alteration in som, d humour, or randomised words which
-    </p>
+                                <h2>Amanda T</h2>
+                               <p>"Kamar bersih, sarapan memuaskan, lokasi strategis"</p>
                             </div>
                             <div class="single-testimonial">
-                                <h2>Louis Smith</h2>
-                               <p>There are many variations of passages of Lorem I available, but the majority have suffered alteration in som, d humour, or randomised words which
-    </p>
+                                <h2>Tonny M</h2>
+                               <p>"Lokasinya sangat strategis dekat kemana mana, pelayanan dan sarapan paginya sangat memuaskan"</p>
                             </div>
                         </div>
                     </div>
@@ -617,26 +373,26 @@
                     <div class="col-md-12">
                         <div class="section-title mb-80">
                             <h2>our <span>Gallery</span></h2>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered by injected humour.</p>
+                            <p>Beragam fasilitas untuk meningkatkan kenyamanan pengalaman menginap Anda bersama kami</p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="our-gallery-photo">
                 <div class="single-gallery">
-                    <img src="images/gallery/g-1.jpg" alt="">
+                    <img src="images/gallery/galery1.jpg" alt="">
                 </div>
                 <div class="single-gallery">
-                    <img src="images/gallery/g-2.jpg" alt="">
+                    <img src="images/gallery/galery2.jpg" alt="">
                 </div>
                 <div class="single-gallery">
-                    <img src="images/gallery/g-5.jpg" alt="">
+                    <img src="images/gallery/galery3.jpg" alt="">
                 </div>
                 <div class="single-gallery">
-                    <img src="images/gallery/g-4.jpg" alt="">
+                    <img src="images/gallery/galery4.jpg" alt="">
                 </div>
                 <div class="single-gallery">
-                    <img src="images/gallery/g-5.jpg" alt="">
+                    <img src="images/gallery/galery5.jpg" alt="">
                 </div>
             </div>
             
@@ -810,6 +566,23 @@
                         </div>
                     </div>
                 </div>
+            
+            <div id="map" style="width:1300px;height:600px;background:yellow"></div>
+
+            <script>
+            function myMap() {
+            var mapOptions = {
+            center: new google.maps.LatLng(51.5, -0.12),
+            zoom: 10,
+            mapTypeId: google.maps.MapTypeId.HYBRID
+            }
+            var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+            }
+            </script>
+
+            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
+
+
                 <div class="row">
                     <div class="col-md-12">
                         <div class="newsletter">
@@ -829,11 +602,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
+                
         <!--hotel team end-->
         <!--Footer start -->
         <div class="footer ptb-100">
