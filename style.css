@@ -748,8 +748,13 @@ p.welcome-desc {
   top: 0;
 }
 .services-title > h2 {
+<<<<<<< HEAD
   background: #45c0ee none repeat scroll 0 0;
   color: #4a4a4a;
+=======
+  background: rgba(255, 255, 255, 0.85) none repeat scroll 0 0;
+  color: #45c0ee;
+>>>>>>> d0f25d72e9911b99e8e6d0de35d165b0ebc8f427
   display: inline-block;
   font-size: 24px;
   line-height: 18px;
@@ -762,7 +767,7 @@ p.welcome-desc {
     overflow: hidden;
 }
 .services-hover-inner {
-  background: rgba(255, 255, 255, 0.85) none repeat scroll 0 0;
+  background: #45c0ee none repeat scroll 0 0;
   display: inline-block;
   height: 100%;
   opacity: 0;

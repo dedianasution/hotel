@@ -165,8 +165,8 @@
                     <div class="col-md-12">
                         <div class="about-chondo">
                             <div class="about-member">
-                                <img src="images/about.jpg" alt="">
-                                <h3>Bagus Kurniawan</h3>
+                                <img src="images/about1.jpg" alt="">
+                                <h3>Flora Kurniawan</h3>
                                 <h5 class="mb-0">Founder</h5>
                             </div>
                         </div>
@@ -200,7 +200,7 @@
                             <div class="col-md-4">
                                 <div class="single-room">
                                     <div class="room-img">
-                                        <a href="#"><img src="images/room/room1.jpg" alt=""></a>
+                                        <a href="#"><img src="images/room/superior.jpg" alt=""></a>
                                     </div>
                                     <div class="room-desc">
                                         <div class="room-name">
@@ -241,7 +241,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-services">
                                 <div class="services-img">
-                                    <img src="images/services/services1.jpg" alt="">
+                                    <img src="images/services/easyacces.jpg" alt="">
                                     <div class="services-title">
                                         <h2>Easy Access</h2>
                                     </div>
@@ -261,7 +261,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-services">
                                 <div class="services-img">
-                                    <img src="images/services/services2.jpg" alt="">
+                                    <img src="images/services/cheapprice.jpg" alt="">
                                     <div class="services-title">
                                         <h2>Cheap Price</h2>
                                     </div>
@@ -281,7 +281,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-services">
                                 <div class="services-img">
-                                    <img src="images/services/services3.jpg" alt="">
+                                    <img src="images/services/24receptionist.jpg" alt="">
                                     <div class="services-title">
                                         <h2>24/7 Reception</h2>
                                     </div>
@@ -301,7 +301,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-services">
                                 <div class="services-img">
-                                    <img src="images/services/services4.jpg" alt="">
+                                    <img src="images/services/security.jpg" alt="">
                                     <div class="services-title">
                                         <h2>Security 24 Hours</h2>
                                     </div>
@@ -340,7 +340,7 @@
                             <div class="col-md-4">
                                 <div class="single-staff">
                                     <div class="sraff-inner">
-                                        <img src="images/staff/staff1.jpg" alt="">
+                                        <img src="images/staff/manager.jpg" alt="">
                                         <div class="staff-title">
                                             <span class="plus"></span>
                                             <h2>Duty Manager</h2>
@@ -666,8 +666,7 @@
                 </div>
                 <div class="news-list">
                     <div class="row">
-                        <div class="col-md-12 pb-80">
-                            <?php include "koneksi.php"; ?>
+                        <?php include "koneksi.php"; ?>
 
                             <?php 
 
@@ -675,7 +674,8 @@
                                while($hasil=mysqli_fetch_array($data)){
 
                             ?>
-                            <div class="news-inner">
+                        <div class="col-md-12 pb-80">                         
+                            <div class="news-inner">                            
                                 <div class="news-img">
                                     <img src="images/news/n-1.jpg" alt="">
                                     <div class="news-post">
@@ -701,10 +701,10 @@
                                             <a href="#"><i class="mdi mdi-instagram"></i></a>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                            <?php } ?>
+                                </div>                                
+                            </div>                            
                         </div>
+                        <?php } ?>
                        <!--  <div class="col-md-12 pb-80">
                             <div class="news-inner">
                                 <div class="news-img">
