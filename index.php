@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Chondo Hotel | Home1</title>
+    <title>Syaqilla Residence | Home</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -47,207 +47,12 @@
 			</div>
 		</div>
 	</div>
-
     <div class="wrapper bg-dark">
         <!--Header section start-->
         <div class="header-section">
             <div class="bg-opacity"></div>
             <div class="top-header sticky-header">
-                <div class="top-header-inner">
-                    <div class="container">
-                        <div class="mgea-full-width">
-                            <div class="row">
-                                <div class="col-md-2 col-sm-2 col-xs-12">
-                                    <div class="logo mt-15">
-                                        <a href="index.html"><img src=" images/logo/logo1.png" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="col-md-10 col-sm-10 hidden-xs">
-                                    <div class="header-top ptb-10">
-                                        <div class="adresses">
-                                            <div class="phone">
-                                                <p>call <span>+62 8111 96 333</span></p>
-                                            </div>
-                                            <div class="email">
-                                                <p>Email: <span>info@syaqilla.com</span></p>
-                                            </div>
-                                        </div>
-                                        <div class="social-links">
-                                            <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                            <!-- <a href="#"><i class="mdi mdi-rss"></i></a> -->
-                                            <!-- <a href="#"><i class="mdi mdi-google-plus"></i></a> -->
-                                            <a href="#"><i class="mdi mdi-pinterest"></i></a>
-                                            <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="menu mt-25">
-                                        <div class="menu-list hidden-sm hidden-xs">
-                                            <nav>
-                                                <ul>
-                                                    <li><a href="index.php">home</i></a>
-                                                        <ul class="dropdown_menu">
-                                                            <!-- <li><a href="index.html">Home default</a></li> -->
-                                                            <!-- <!-- <li><a href="index-2.html">Home Two</a></li>
-                                                            <li><a href="index-3.html">Animated text</a></li>
-                                                            <li><a href="index-4.html">Parallax version</a></li>
-                                                            <li><a href="index-box.html">Home one box</a></li>
-                                                            <li><a href="index-2-box.html">Home Two box</a></li> -->
-                                                        </ul>
-                                                    </li> -->
-                                                    <!-- <li class="mega_parent"><a href="#">Element<i class="fa fa-angle-down"></i></a>
-                                                        <ul class="mega_menu"> -->
-                                                            <!-- <li><a class="element-title" href="#">Elements colmun 1</a>
-                                                                <ul class="mega-sub-menu">
-                                                                    <li><a href="elements-alert.html">Aletrs</a></li>
-                                                                    <li><a href="elements-button.html">Button</a></li>
-                                                                    <li><a href="elements-progress-bar.html">Progress bar</a></li>
-                                                                    <li><a href="elements-audio.html">Audio</a></li>
-                                                                    <li><a href="elements-video.html">video</a></li>
-                                                                </ul>
-                                                            </li>
-                                                            <li><a class="element-title" href="#">Elements colmun 2</a>
-                                                                <ul class="mega-sub-menu">
-                                                                    <li><a href="elements-gallery.html">Gallery one</a></li>
-                                                                    <li><a href="elements-gallery-2.html">Gallery Two</a></li>
-                                                                    <li><a href="elements-news.html">News one</a></li>
-                                                                    <li><a href="elements-news-2.html">News two</a></li>
-                                                                    <li><a href="elements-room.html">Room</a></li>
-                                                                </ul>
-                                                            </li>
-                                                            <li><a class="element-title" href="#">Elements colmun 3</a>
-                                                                <ul class="mega-sub-menu">
-                                                                    <li><a href="elements-booking-room.html">Booking Room</a></li>
-                                                                    <li><a href="elements-gallery-2.html">Gallery</a></li>
-                                                                    <li><a href="elements-contact-form.html">Contact form</a></li>
-                                                                    <li><a href="elements-map.html">Map</a></li>
-                                                                    <li><a href="elements-fun-factor.html">Fun factor</a></li>
-                                                                </ul>
-                                                            </li>
-                                                            <li><a class="element-title" href="#">Elements colmun 4</a>
-                                                                <ul class="mega-sub-menu">
-                                                                    <li><a href="elemenst-brand.html">Brand</a></li>
-                                                                    <li><a href="elements-services.html">Services</a></li>
-                                                                    <li><a href="elements-typhography.html">Typhography</a></li>
-                                                                    <li><a href="elements-staff.html">Staff</a></li>
-                                                                    <li><a href="elements-testimonial.html">Testionial</a></li>
-                                                                </ul>
-                                                            </li>
-                                                        </ul>
-                                                    </li> -->
-                                                    <li><a href="element-service.html">Service</a></li>
-                                                    <li><a href="about-us.html">About</a></li>
-                                                    <li><a href="#">Feature</a></li>
-                                                    <li><a href="gallery-2.html">Gallery</a></li>
-                                                    <li><a href="#">pages<i class="fa fa-angle-down"></i></a>
-                                                        <ul class="dropdown_menu">
-                                                            <li><a href="404.html">404</a></li>
-															<li><a href="booking-information.html">Booking Information</a></li>
-															<li><a href="personal-information.html">Personal Information</a></li>
-															<li><a href="payment-information.html">Parment Information</a></li>
-															<li><a href="booking-done.html">Booking Done</a></li>
-															<li><a href="room-booking.html">Room booking</a></li>
-															<li><a href="news.html">News one</a></li>
-															<li><a href="news-2.html">News two</a></li>
-															<li><a href="gallery.html">Gallery one</a></li>
-															 <li><a href="staff.html">Staff</a></li>
-															<li><a href="our-room.html">Room</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="contact-us.html">Contact</a></li>
-                                                </ul>
-                                            </nav>
-                                        </div>
-                                        <div class="search-bar-icon">
-                                           <a class="search-open" href="#"><i class="fa fa-search"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>    
-                </div>
-                 <!-- Mobile menu start -->
-                <div class="mobile-menu-area hidden-lg hidden-md">
-                    <div class="container">
-                        <div class="col-md-12">
-                            <nav id="dropdown">
-                            <ul>
-                                <li><a href="#">home</a>
-                                    <ul>
-                                        <li><a href="index.html">Home default</a></li>
-                                        <li><a href="index-2.html">Home Two</a></li>
-                                        <li><a href="index-3.html">Animated text</a></li>
-                                        <li><a href="index-4.html">Parallax version</a></li>
-                                        <li><a href="index-box.html">Home one box</a></li>
-                                        <li><a href="index-2-box.html">Home Two box</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Elements</a>
-                                    <ul>
-                                        <li><a href="#">Elements colmun 1</a>
-                                            <ul>
-                                                <li><a href="elements-alert.html">Aletrs</a></li>
-                                                <li><a href="elements-button.html">Button</a></li>
-                                                <li><a href="elements-progress-bar.html">Progress bar</a></li>
-                                                <li><a href="elements-audio.html">Audio</a></li>
-                                                <li><a href="elements-video.html">video</a></li>
-                                            </ul>	
-                                        </li>
-                                        <li><a href="#">Elements colmun 2</a>
-                                            <ul>
-                                                <li><a href="elements-gallery.html">Gallery one</a></li>
-                                                <li><a href="elements-gallery-2.html">Gallery Two</a></li>
-                                                <li><a href="elements-news.html">News one</a></li>
-                                                <li><a href="elements-news-2.html">News two</a></li>
-                                                <li><a href="elements-room.html">Room</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="#">Elements colmun 3</a>
-                                            <ul>
-                                                <li><a href="elements-booking-room.html">Booking Room</a></li>
-                                                <li><a href="elements-gallery-2.html">Gallery</a></li>
-                                                <li><a href="elements-contact-form.html">Contact form</a></li>
-                                                <li><a href="elements-map.html">Map</a></li>
-                                                <li><a href="elements-fun-factor.html">Fun factor</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="#">Elements colmun 4</a>
-                                            <ul>
-                                                <li><a href="elemenst-brand.html">Brand</a></li>
-                                                <li><a href="elements-services.html">Services</a></li>
-                                                <li><a href="elements-typhography.html">Typhography</a></li>
-                                                <li><a href="elements-staff.html">Staff</a></li>
-                                                <li><a href="elements-testimonial.html">Testionial</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Service</a></li>
-                                <li><a href="about-us.html">About</a></li>
-                                <li><a href="#">Feature</a></li>
-                                <li><a href="#">Gallery</a></li>
-                                <li><a href="#">pages</a>
-                                    <ul>
-                                        <li><a href="404.html">404</a></li>
-                                        <li><a href="booking-information.html">Booking Information</a></li>
-                                        <li><a href="personal-information.html">Personal Information</a></li>
-                                        <li><a href="payment-information.html">Parment Information</a></li>
-                                        <li><a href="booking-done.html">Booking Done</a></li>
-                                        <li><a href="room-booking.html">Room booking</a></li>
-                                        <li><a href="news.html">News one</a></li>
-                                        <li><a href="news-2.html">News two</a></li>
-                                        <li><a href="gallery.html">Gallery one</a></li>
-                                        <li><a href="staff.html">Staff</a></li>
-                                        <li><a href="our-room.html">Room</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">contact</a></li>
-                            </ul>
-                        </nav>
-                        </div>
-                    </div>
-                </div>
-                <!-- Mobile menu end -->
+                <?php include "menu.php"; ?>
             </div>
             <!--Welcome secton-->
             <div class="welcome-section">
@@ -307,9 +112,9 @@
                                 <h1 class="cd-headline clip">
                                     <span>FEEL LIKE</span>
                                     <span class="cd-words-wrapper coloring">
-                                        <b class="is-visible"> BEACH</b>
-                                        <b>HOME</b>
-                                        <b>PARADISE</b>
+                                        <b class="is-visible"> HOME</b>
+                                        <b>Nature</b>
+                                       <!--  <b>PARADISE</b> -->
                                     </span>
                                 </h1>
                                 <p class="welcome-desc">Feel the Pleasure of Middle East Living</p>
@@ -359,8 +164,8 @@
                     <div class="col-md-12">
                         <div class="about-chondo">
                             <div class="about-member">
-                                <img src="images/about.jpg" alt="">
-                                <h3>Bagus Kurniawan</h3>
+                                <img src="images/about1.jpg" alt="">
+                                <h3>Flora Kurniawan</h3>
                                 <h5 class="mb-0">Founder</h5>
                             </div>
                         </div>
@@ -383,24 +188,34 @@
                 <div class="our-room-show">
                     <div class="row">
                         <div class="carousel-list">
+                            <?php include "koneksi.php"; ?>
+
+                            <?php 
+
+                               $data = mysqli_query($mysqli, "SELECT * from room");
+                               while($hasil=mysqli_fetch_array($data)){
+
+                            ?>
                             <div class="col-md-4">
                                 <div class="single-room">
                                     <div class="room-img">
-                                        <a href="#"><img src="images/room/room1.jpg" alt=""></a>
+                                        <img src="images/room/superior.jpg" alt=""></a>
                                     </div>
                                     <div class="room-desc">
                                         <div class="room-name">
-                                            <h3><a href="#">Superior Room</a></h3>
+                                            <h3><a href="#"><?php echo $hasil['title']; ?></a></h3>
                                         </div>
                                         <div class="room-rent">
-                                            <h5>IDR 400.000 / <span>Malam</span></h5>
+                                            <h5>IDR <?php echo number_format($hasil['price']); ?> / <span><?php echo $hasil['description']; ?></span></h5>
                                         </div>
                                         <div class="room-book">
-                                            <a href="booking-information.html">Book now</a>
+                                            <a href="detail-room.php">Detail Room</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
+                            <?php } ?>
                         </div>
                     </div>
                 </div>
@@ -425,7 +240,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-services">
                                 <div class="services-img">
-                                    <img src="images/services/services1.jpg" alt="">
+                                    <img src="images/services/easyacces.jpg" alt="">
                                     <div class="services-title">
                                         <h2>Easy Access</h2>
                                     </div>
@@ -445,7 +260,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-services">
                                 <div class="services-img">
-                                    <img src="images/services/services2.jpg" alt="">
+                                    <img src="images/services/cheapprice.jpg" alt="">
                                     <div class="services-title">
                                         <h2>Cheap Price</h2>
                                     </div>
@@ -465,7 +280,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-services">
                                 <div class="services-img">
-                                    <img src="images/services/services3.jpg" alt="">
+                                    <img src="images/services/24receptionist.jpg" alt="">
                                     <div class="services-title">
                                         <h2>24/7 Reception</h2>
                                     </div>
@@ -485,7 +300,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-services">
                                 <div class="services-img">
-                                    <img src="images/services/services4.jpg" alt="">
+                                    <img src="images/services/security.jpg" alt="">
                                     <div class="services-title">
                                         <h2>Security 24 Hours</h2>
                                     </div>
@@ -505,253 +320,13 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <!--Our services end-->
-        <!--Our staff start-->
-        <div class="our-staff text-center pb-80  ">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="section-title mb-80">
-                            <h2>our <span>Staff</span></h2>
-                            <p>Layanan semakin sempurna dengan dukungan staff kami yang professional untuk meningkatkan kepuasan menginap Anda</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="staff-list">
-                    <div class="row">
-                        <div class="carousel-list">
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff1.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Duty Manager</h2>
-                                            <h5>Maya</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Duty Manager</h2>
-                                            <h5>Maya</h5>
-                                            <p>"Kebutuhan menginap anda akan semakin lengkap dengan layanan yang prima dari kami"</p>
-                                            <!-- <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a> -->
-                                            <!-- </div> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff2.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Receptionist</h2>
-                                            <h5>Dian</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Receptionist<h2>
-                                            <h5>Dian</h5>
-                                            <p>Kebutuhan menginap anda akan semakin lengkap dengan layanan yang prima dari kami</p>
-                                            <!-- <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff3.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Security</h2>
-                                            <h5>Menek</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Security</h2>
-                                            <h5>Menek</h5>
-                                            <p>Kebutuhan menginap anda akan semakin lengkap dengan layanan yang prima dari kami</p>
-                                            <!-- <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff1.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-                                            <p>There are many variaons of passa of Lorem Ipsuable, amrn in sofby injected humour, amr.</p>
-                                            <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff2.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-                                            <p>There are many variaons of passa of Lorem Ipsuable, amrn in sofby injected humour, amr.</p>
-                                            <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff3.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-                                            <p>There are many variaons of passa of Lorem Ipsuable, amrn in sofby injected humour, amr.</p>
-                                            <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff1.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-                                            <p>There are many variaons of passa of Lorem Ipsuable, amrn in sofby injected humour, amr.</p>
-                                            <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff2.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-                                            <p>There are many variaons of passa of Lorem Ipsuable, amrn in sofby injected humour, amr.</p>
-                                            <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="single-staff">
-                                    <div class="sraff-inner">
-                                        <img src="images/staff/staff3.jpg" alt="">
-                                        <div class="staff-title">
-                                            <span class="plus"></span>
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-
-                                        </div>
-                                        <div class="staff-hover-desc">
-                                            <h2>Soleman</h2>
-                                            <h5>hotel staff</h5>
-                                            <p>There are many variaons of passa of Lorem Ipsuable, amrn in sofby injected humour, amr.</p>
-                                            <div class="scoial_icons">
-                                                <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                                <a href="#"><i class="mdi mdi-rss"></i></a>
-                                                <a href="#"><i class="mdi mdi-google-plus"></i></a>
-                                                <a href="#"><i class="mdi mdi-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-
-        </div>
-        <!--Our staff end-->
-        <!--Testimonial start-->
         <div class="our-gallery text-center ptb-80  ">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-title mb-80">
                             <h2>our <span>Testimonial</span></h2>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered by injected humour.</p>
+                            <p>Beragam fasilitas untuk meningkatkan kenyamanan pengalaman menginap Anda bersama kami</p>
                         </div>
                     </div>
                 </div>
@@ -770,19 +345,16 @@
                                             <div class="col-md-8 col-md-offset-2">
                                                 <div class="testimonial-list">
                                                     <div class="single-testimonial">
-                                                        <h2>Louis Smith</h2>
-                                                    <p>There are many variations of passages of Lorem I available, but the majority have suffered alteration in som, d humour, or randomised words which
-    </p>
+                                                        <h2>Dedi A Nasution</h2>
+                                                    <p>"Lokasi sangat strategis, kamar bersih, pelayanan memuaskan"</p>
                             </div>
                             <div class="single-testimonial">
-                                <h2>Louis Smith</h2>
-                               <p>There are many variations of passages of Lorem I available, but the majority have suffered alteration in som, d humour, or randomised words which
-    </p>
+                                <h2>Amanda T</h2>
+                               <p>"Kamar bersih, sarapan memuaskan, lokasi strategis"</p>
                             </div>
                             <div class="single-testimonial">
-                                <h2>Louis Smith</h2>
-                               <p>There are many variations of passages of Lorem I available, but the majority have suffered alteration in som, d humour, or randomised words which
-    </p>
+                                <h2>Tonny M</h2>
+                               <p>"Lokasinya sangat strategis dekat kemana mana, pelayanan dan sarapan paginya sangat memuaskan"</p>
                             </div>
                         </div>
                     </div>
@@ -801,26 +373,26 @@
                     <div class="col-md-12">
                         <div class="section-title mb-80">
                             <h2>our <span>Gallery</span></h2>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered by injected humour.</p>
+                            <p>Beragam fasilitas untuk meningkatkan kenyamanan pengalaman menginap Anda bersama kami</p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="our-gallery-photo">
                 <div class="single-gallery">
-                    <img src="images/gallery/g-1.jpg" alt="">
+                    <img src="images/gallery/galery1.jpg" alt="">
                 </div>
                 <div class="single-gallery">
-                    <img src="images/gallery/g-2.jpg" alt="">
+                    <img src="images/gallery/galery2.jpg" alt="">
                 </div>
                 <div class="single-gallery">
-                    <img src="images/gallery/g-5.jpg" alt="">
+                    <img src="images/gallery/galery3.jpg" alt="">
                 </div>
                 <div class="single-gallery">
-                    <img src="images/gallery/g-4.jpg" alt="">
+                    <img src="images/gallery/galery4.jpg" alt="">
                 </div>
                 <div class="single-gallery">
-                    <img src="images/gallery/g-5.jpg" alt="">
+                    <img src="images/gallery/galery5.jpg" alt="">
                 </div>
             </div>
             
@@ -986,6 +558,23 @@
                         </div>
                     </div>
                 </div>
+            
+            <div id="map" style="width:1300px;height:600px;background:yellow"></div>
+
+            <script>
+            function myMap() {
+            var mapOptions = {
+            center: new google.maps.LatLng(51.5, -0.12),
+            zoom: 10,
+            mapTypeId: google.maps.MapTypeId.HYBRID
+            }
+            var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+            }
+            </script>
+
+            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
+
+
                 <div class="row">
                     <div class="col-md-12">
                         <div class="newsletter">
@@ -1005,11 +594,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
+                
         <!--hotel team end-->
         <!--Footer start -->
         <div class="footer ptb-100">

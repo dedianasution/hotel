@@ -56,7 +56,7 @@
         <!--Header section start-->
         <div class="header-section">
             <div class="bg-opacity"></div>
-            <div class="top-header sticky-header">
+            <div class="top-header static2">
                 <?php include "menu.php"; ?>
             </div>
 				</div>
@@ -227,7 +227,7 @@
                                 <div class="single-services">
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div class="services-img">
-                                        <img src="images/services/services51.jpg" alt="">
+                                        <img src="images/services/services5.jpg" alt="">
                                     </div>
                                     </div>
                                     <div class="col-md-6 col-sm-6 col-xs-12">
@@ -238,14 +238,6 @@
                                             <p class="text2">
                                                 a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, r
                                             </p>
-                                            <ul class="sempak">
-												<li>Spacious room size of 40 m2</li>
-												<li>King size bed 220x200 cm</li>
-												<li>Twin size bed 140x200 cm</li>
-												<li>Spacious bathroom</li>
-												<li>Smoking & non-smoking room</li>
-												<li>Connecting door is available</li>
-											</ul>
                                             <div class="room-book">
                                                 <a href="#">Book now</a>
                                             </div>
