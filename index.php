@@ -612,11 +612,10 @@
                     <div class="col-md-4 col-sm-4 col-xs-6">
                         <div class="single-footer mt-0">
                             <div class="logo">
-                                <img src="images/logo/logo1.png" alt="">
+                                <img src="images/logo/logo.png" alt="">
                             </div>
                             <div class="f-adress">
-                                <p><span>Address:</span> ur address goes here,
-    street Crossroad123.</p>
+                                <p><span>Address:</span> ur address goes here,street Crossroad123.</p>
                             </div>
                             <div class="hotel-contact">
                                 <p><span>phone:</span> 99 55 88586 5478.</p>
@@ -634,9 +633,9 @@
                                    <li><a href="#">Manifesto</a></li>
                                    <li><a href="#">Beach Venues</a></li>
                                    <li><a href="#">Wellness</a></li>
-                                   <li><a href="#">Contact</a></li> -->
-                                <!-- </ul> -->
-                           <!-- </div>
+                                   <li><a href="#">Contact</a></li>
+                                </ul>
+                           </div>
                         </div>
                     </div> -->
                     <div class="col-md-4 col-sm-4 col-xs-6">
