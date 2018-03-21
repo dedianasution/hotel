@@ -31,7 +31,7 @@
                                                 <ul>
                                                     <li><a href="index.php">home</i></a>
                                                         
-                                                    </li> -->
+                                                    </li> 
                                                     <!-- <li class="mega_parent"><a href="#">Element<i class="fa fa-angle-down"></i></a>
                                                         <ul class="mega_menu"> -->
                                                             <!-- <li><a class="element-title" href="#">Elements colmun 1</a>
@@ -72,10 +72,10 @@
                                                             </li>
                                                         </ul>
                                                     </li> -->
-                                                    <li><a href="elements-services.html">Element</a></li>
-                                                    <li><a href="about-us.html">About</a></li>
+                                                    <li><a href="elements-services.php">Element</a></li>
+                                                    <li><a href="about-us.php">About</a></li>
                                                     <li><a href="#">Feature</a></li>
-                                                    <li><a href="gallery-2.html">Gallery</a></li>
+                                                    <li><a href="gallery-2.php">Gallery</a></li>
                                                     <li><a href="#">pages<i class="fa fa-angle-down"></i></a>
                                                         <ul class="dropdown_menu">
                                                             <li><a href="404.html">404</a></li>
@@ -91,7 +91,7 @@
 															<li><a href="our-room.html">Room</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="contact-us.html">Contact</a></li>
+                                                    <li><a href="contact-us.php">Contact</a></li>
                                                 </ul>
                                             </nav>
                                         </div>

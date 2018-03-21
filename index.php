@@ -422,8 +422,16 @@
                 </div>
                 <div class="news-list">
                     <div class="row">
-                        <div class="col-md-12 pb-80">
-                            <div class="news-inner">
+                        <?php include "koneksi.php"; ?>
+
+                            <?php 
+
+                               $data = mysqli_query($mysqli, "SELECT * from news");
+                               while($hasil=mysqli_fetch_array($data)){
+
+                            ?>
+                        <div class="col-md-12 pb-80">                         
+                            <div class="news-inner">                            
                                 <div class="news-img">
                                     <img src="images/news/n-1.jpg" alt="">
                                     <div class="news-post">
@@ -435,9 +443,8 @@
                                     </div>
                                 </div>
                                 <div class="news-desc">
-                                    <h3 class="news-title"><a href="#">Best Things to Do In London Enjoy Your life
-    the Night life.</a> </h3>
-                                    <p class="news_desc">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of tystem, and expound the actual teachings of the great explorer of the truth, the master-builder uman happiness. No one rejects, dislikes, or avoids pleasure itself, because it</p>
+                                    <h3 class="news-title"><a href="#"><?php echo $hasil['title']; ?></a> </h3>
+                                    <p class="news_desc"><?php echo $hasil['description']; ?></p>
                                     <div class="news-action">
                                         <div class="read-more">
                                             <a href="#">Read more</a>
@@ -450,10 +457,11 @@
                                             <a href="#"><i class="mdi mdi-instagram"></i></a>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
+                                </div>                                
+                            </div>                            
                         </div>
-                        <div class="col-md-12 pb-80">
+                        <?php } ?>
+                       <!--  <div class="col-md-12 pb-80">
                             <div class="news-inner">
                                 <div class="news-img">
                                     <img src="images/news/n-2.jpg" alt="">
@@ -484,7 +492,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -559,7 +567,7 @@
                     </div>
                 </div>
             
-            <div id="map" style="width:1300px;height:600px;background:yellow"></div>
+           <!--  <div id="map" style="width:1300px;height:600px;background:yellow"></div>
 
             <script>
             function myMap() {
@@ -573,7 +581,10 @@
             </script>
 
             <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
-
+ -->
+            <div id="contacts" class="map-area">
+                <div id="googleMap" style="width:100%;height:418px;filter: grayscale(100%);-webkit-filter: grayscale(100%);"></div>
+            </div>
 
                 <div class="row">
                     <div class="col-md-12">
@@ -604,11 +615,10 @@
                     <div class="col-md-4 col-sm-4 col-xs-6">
                         <div class="single-footer mt-0">
                             <div class="logo">
-                                <img src="images/logo/logo1.png" alt="">
+                                <img src="images/logo/logo.png" alt="">
                             </div>
                             <div class="f-adress">
-                                <p><span>Address:</span> ur address goes here,
-    street Crossroad123.</p>
+                                <p><span>Address:</span> ur address goes here,street Crossroad123.</p>
                             </div>
                             <div class="hotel-contact">
                                 <p><span>phone:</span> 99 55 88586 5478.</p>
@@ -626,9 +636,9 @@
                                    <li><a href="#">Manifesto</a></li>
                                    <li><a href="#">Beach Venues</a></li>
                                    <li><a href="#">Wellness</a></li>
-                                   <li><a href="#">Contact</a></li> -->
-                                <!-- </ul> -->
-                           <!-- </div>
+                                   <li><a href="#">Contact</a></li>
+                                </ul>
+                           </div>
                         </div>
                     </div> -->
                     <div class="col-md-4 col-sm-4 col-xs-6">
@@ -693,6 +703,35 @@
         </div>
         <!-- Footer end -->
     </div>
+
+     <!-- Google Map js
+        ============================================ -->        
+        
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key= AIzaSyAj9b_nyz33KEaocu6ZOXRgqwwUZkDVEAw"></script>
+        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <script>
+            function initialize() {
+              var mapOptions = {
+                zoom: 15,
+                scrollwheel: false,
+                center: new google.maps.LatLng(3.5461475, 98.6922799)
+              };
+
+              var map = new google.maps.Map(document.getElementById('googleMap'),
+                  mapOptions);
+
+
+              var marker = new google.maps.Marker({
+                position: map.getCenter(),
+                animation:google.maps.Animation.BOUNCE,
+                icon: 'images/map-marker.png',
+                map: map
+              });
+                
+            }
+                
+            google.maps.event.addDomListener(window, 'load', initialize);
+        </script>
     
     
  
