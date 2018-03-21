@@ -559,7 +559,7 @@
                     </div>
                 </div>
             
-            <div id="map" style="width:1300px;height:600px;background:yellow"></div>
+           <!--  <div id="map" style="width:1300px;height:600px;background:yellow"></div>
 
             <script>
             function myMap() {
@@ -573,7 +573,10 @@
             </script>
 
             <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
-
+ -->
+            <div id="contacts" class="map-area">
+                <div id="googleMap" style="width:100%;height:418px;filter: grayscale(100%);-webkit-filter: grayscale(100%);"></div>
+            </div>
 
                 <div class="row">
                     <div class="col-md-12">
@@ -693,6 +696,35 @@
         </div>
         <!-- Footer end -->
     </div>
+
+     <!-- Google Map js
+        ============================================ -->        
+        
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key= AIzaSyAj9b_nyz33KEaocu6ZOXRgqwwUZkDVEAw"></script>
+        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <script>
+            function initialize() {
+              var mapOptions = {
+                zoom: 15,
+                scrollwheel: false,
+                center: new google.maps.LatLng(3.5461475, 98.6922799)
+              };
+
+              var map = new google.maps.Map(document.getElementById('googleMap'),
+                  mapOptions);
+
+
+              var marker = new google.maps.Marker({
+                position: map.getCenter(),
+                animation:google.maps.Animation.BOUNCE,
+                icon: 'images/map-marker.png',
+                map: map
+              });
+                
+            }
+                
+            google.maps.event.addDomListener(window, 'load', initialize);
+        </script>
     
     
  
