@@ -128,7 +128,7 @@
 
         <!--Header section end-->
         <!--About Section Title start-->
-        <!-- <div class="about-section home-2 text-center ptb-80 white_bg">
+        <div class="about-section home-2 text-center ptb-80 white_bg">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -197,7 +197,7 @@
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
         <!--About Section end-->
 
         <!--Our services start-->
@@ -238,6 +238,9 @@
                                             <p class="text2">
                                                 a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, r
                                             </p>
+                                            <ul>
+                                                <li>
+                                            </ul>
                                             <div class="room-book">
                                                 <a href="#">Book now</a>
                                             </div>
@@ -322,7 +325,7 @@
         </div>
         <!--Our services end-->
         <!--Video tour start-->
-        <!-- <div class="video-tour ptb-120 text-center">
+        <div class="video-tour ptb-120 text-center">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -338,10 +341,10 @@
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
         <!--Video tour end-->
         <!--Our staff start-->
-        <!-- <div class="our-staff text-center ptb-80 white_bg">
+        <div class="our-staff text-center ptb-80 white_bg">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -573,11 +576,11 @@
                         </div>
                     </div>
                 </div>
-            </div> -->
-        <!-- </div> -->
+            </div>
+        </div>
         <!--Our staff end-->
         <!--Testimonial start-->
-        <!-- <div class="staff-tesimonial text-left ptb-140 client-say">
+        <div class="staff-tesimonial text-left ptb-140 client-say">
             <div class="testimonail-bg-opacity"></div>
             <div class="container">
                 <div class="row">
@@ -635,10 +638,10 @@
 
             </div>
 
-        </div> -->
+        </div>
         <!--Testimonial end-->
         <!--Our gallery start-->
-        <!-- <div class="our-gallery text-center ptb-80 white_bg">
+        <div class="our-gallery text-center ptb-80 white_bg">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -754,10 +757,10 @@
                     </div>
                 </div>            
             </div>
-        </div> -->
+        </div>
         <!--Our gallery end-->
         <!--Our news start-->
-        <!-- <div class="our-news text-center white_bg">
+        <div class="our-news text-center white_bg">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -836,7 +839,7 @@
                 </div>
             </div>
 
-        </div> -->
+        </div>
         <!--Our news end-->
         <!--Hotel communities start-->
         <div class="hotel-cmmunities ptb-100 text-center">
