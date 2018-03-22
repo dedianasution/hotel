@@ -323,7 +323,7 @@
                                 <div class="single-services">
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div class="services-img">
-                                        <img src="images/services/services5.jpg" alt="">
+                                        <img src="images/services/services53.jpg" alt="">
                                     </div>
                                     </div>
                                     <div class="col-md-6 col-sm-6 col-xs-12">
@@ -349,7 +349,7 @@
                                 <div class="single-services">
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div class="services-img">
-                                        <img src="images/services/services1.jpg" alt="">
+                                        <img src="images/services/services10.jpg" alt="">
                                     </div>
                                     </div>
                                     <div class="col-md-6 col-sm-6 col-xs-12">
@@ -375,7 +375,7 @@
                                 <div class="single-services">
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div class="services-img">
-                                        <img src="images/services/services3.jpg" alt="">
+                                        <img src="images/services/services21.jpg" alt="">
                                     </div>
                                     </div>
                                     <div class="col-md-6">

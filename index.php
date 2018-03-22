@@ -209,7 +209,7 @@
                                             <h5>IDR <?php echo number_format($hasil['price']); ?> / <span><?php echo $hasil['description']; ?></span></h5>
                                         </div>
                                         <div class="room-book">
-                                            <a href="detail-room.php">Detail Room</a>
+                                            <a href="detail-kamar.php">Detail Room</a>
                                         </div>
                                     </div>
                                 </div>
