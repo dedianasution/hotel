@@ -108,7 +108,7 @@
                         <div class="col-md-8 col-sm-7">
                             <div class="welcome-text">
                                 <h2>
-                                <span>SELAMAT DATANG DI</span> <span class="coloring">SYAQILLA RESIDENCE</span>
+                                <span>SELAMAT DATANG DI</span> <span class="coloring">SHAQILA RESIDENCE</span>
                                 </h2>
                                 <h1 class="cd-headline clip">
                                     <span>SEWA KOST</span>
