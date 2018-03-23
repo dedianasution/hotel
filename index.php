@@ -119,9 +119,9 @@
                                     </span>
                                 </h1>
                                 <p class="welcome-desc">Feel the Pleasure of Middle East Living</p>
-                                <div class="explore">
+                               <!--  <div class="explore">
                                     <a href="#">EXPLORE IT</a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -403,15 +403,16 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-title mb-80">
-                            <a href="gallery.html" style="background: #3ac4fa none repeat scroll 0 0;
+                            <a href="gallery-2.php" style="background: #3ac4fa none repeat scroll 0 0;
     color: #fff; padding:15px;">More Photo</a>
                         </div>
                     </div>
                 </div>
             </div>
         <!--Our gallery end-->
+
         <!--Our news start-->
-        <div class="our-news text-center  ">
+         <div class="our-news text-center  ">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -423,7 +424,7 @@
                 </div>
                 <div class="news-list">
                     <div class="row">
-                        <?php include "koneksi.php"; ?>
+                         <?php include "koneksi.php"; ?>
 
                             <?php 
 
@@ -431,8 +432,8 @@
                                while($hasil=mysqli_fetch_array($data)){
 
                             ?>
-                        <div class="col-md-12 pb-80">                         
-                            <div class="news-inner">                            
+                        <div class="col-md-12 pb-80">
+                            <div class="news-inner">
                                 <div class="news-img">
                                     <img src="images/news/n-1.jpg" alt="">
                                     <div class="news-post">
@@ -444,7 +445,7 @@
                                     </div>
                                 </div>
                                 <div class="news-desc">
-                                    <h3 class="news-title"><a href="#"><?php echo $hasil['title']; ?></a> </h3>
+                                    <h3 class="news-title"><a href="#"><?php echo $hasil['title']; ?>.</a> </h3>
                                     <p class="news_desc"><?php echo $hasil['description']; ?></p>
                                     <div class="news-action">
                                         <div class="read-more">
@@ -458,11 +459,11 @@
                                             <a href="#"><i class="mdi mdi-instagram"></i></a>
                                         </div>
                                     </div>
-                                </div>                                
-                            </div>                            
+                                </div>
+                            </div>
                         </div>
                         <?php } ?>
-                       <!--  <div class="col-md-12 pb-80">
+                        <!-- <div class="col-md-12 pb-80">
                             <div class="news-inner">
                                 <div class="news-img">
                                     <img src="images/news/n-2.jpg" alt="">
@@ -500,6 +501,8 @@
 
         </div>
         <!--Our news end-->
+
+
         <!--Hotel communities start-->
         <!-- <div class="hotel-cmmunities ptb-100 text-center">
             <div class="community-bg-opacity"></div>

@@ -182,7 +182,11 @@ img{max-width: 100%}
 /*  3.  Header Css
 /*----------------------------------------*/
 .header-section{
+<<<<<<< HEAD
   background: url(images/bg/home.jpg)no-repeat scroll center center;
+=======
+  background: url(images/back/b-3.jpg)no-repeat scroll center center;
+>>>>>>> 237c3d7117c75963215f284feb3229dd7397113d
   background-size: cover;
 }
 .header-section.height-vh{
