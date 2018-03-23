@@ -48,6 +48,7 @@
 		</div>
 	</div>
     <div class="wrapper bg-dark">
+
         <!--Header section start-->
         <div class="header-section">
             <div class="bg-opacity"></div>
@@ -110,10 +111,10 @@
                                 <span>SELAMAT DATANG DI</span> <span class="coloring">SYAQILLA RESIDENCE</span>
                                 </h2>
                                 <h1 class="cd-headline clip">
-                                    <span>FEEL LIKE</span>
+                                    <span>SEWA KOST</span>
                                     <span class="cd-words-wrapper coloring">
-                                        <b class="is-visible"> HOME</b>
-                                        <b>Nature</b>
+                                        <b class="is-visible"> HARIAN</b>
+                                        <b>BULANAN</b>
                                        <!--  <b>PARADISE</b> -->
                                     </span>
                                 </h1>
@@ -615,7 +616,7 @@
                     <div class="col-md-4 col-sm-4 col-xs-6">
                         <div class="single-footer mt-0">
                             <div class="logo">
-                                <img src="images/logo/logo.png" alt="">
+                                <img src="images/logo/logo3.png" alt="">
                             </div>
                             <div class="f-adress">
                                 <p><span>Address:</span> ur address goes here,street Crossroad123.</p>
