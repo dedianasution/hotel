@@ -111,7 +111,7 @@
                                 <span>SELAMAT DATANG DI</span> <span class="coloring">SHAQILA RESIDENCE</span>
                                 </h2>
                                 <h1 class="cd-headline clip">
-                                    <span>SEWA KOST</span>
+                                    <span>PENGINAPAN</span>
                                     <span class="cd-words-wrapper coloring">
                                         <b class="is-visible"> HARIAN</b>
                                         <b>BULANAN</b>
